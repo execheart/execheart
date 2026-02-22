@@ -32,8 +32,8 @@ My main interest is understanding how attacks actually work — from **reconnais
 
 ## 🛠️ Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev" />
+<p align="center">
+  <img src="https://skillicons.dev" />
 </p>
 
 **Current Arsenal:**
@@ -46,7 +46,7 @@ My main interest is understanding how attacks actually work — from **reconnais
 
 ## 📊 Learning Platform
 
-<p>
+<p align="center">
   <a href="https://tryhackme.com">
     <img src="https://img.shields.io" />
   </a>
@@ -56,7 +56,7 @@ My main interest is understanding how attacks actually work — from **reconnais
 
 ## 📫 Contact
 
-<p>
+<p align="center">
 <a href="mailto:env.hearti@gmail.com">
 <img src="https://img.shields.io"/>
 </a>
