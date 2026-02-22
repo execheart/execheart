@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
 </p>
 
 <h1 align="center" style="color:white;">
-  HEARTI OSAMA
 </h1>
 
 <p align="center">
