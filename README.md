@@ -1,4 +1,3 @@
-<!-- TERMINAL HEADER ONLY -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=40&duration=2500&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=100&lines=WELCOME;HEARTI+OSAMA;ACCESS+GRANTED;SYSTEM+INITIALIZING..." />
@@ -42,7 +41,7 @@ I study attacks from **reconnaissance** to **exploitation**, aiming to build str
 
 <p align="center">
   <a href="https://tryhackme.com">
-    TryHackMe Profile
+    <img src="https://img.shields.io/badge/tryhackme-active-000000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
@@ -52,7 +51,7 @@ I study attacks from **reconnaissance** to **exploitation**, aiming to build str
 
 <p align="center">
   <a href="mailto:env.hearti@gmail.com">
-    <code>env.hearti@gmail.com</code>
+    <img src="https://img.shields.io/badge/env.hearti@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
