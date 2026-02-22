@@ -11,9 +11,6 @@ Offensive Security Student • Focused on Exploitation & Tool Development
 I'm a cybersecurity student focused on offensive security.
 
 My main interest is understanding how attacks actually work — from reconnaissance to exploitation — and learning how to build tools that automate or enhance offensive techniques.
-
-I believe real learning comes from breaking, analyzing, and rebuilding systems to understand their weaknesses.
-
 ---
 
 ## 🚀 Current Focus
