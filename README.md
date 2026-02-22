@@ -42,7 +42,7 @@ I study attacks from **reconnaissance** to **exploitation**, aiming to build str
 
 <p align="center">
   <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-Active-black?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    TryHackMe Profile
   </a>
 </p>
 
@@ -51,9 +51,9 @@ I study attacks from **reconnaissance** to **exploitation**, aiming to build str
 ## 📫 Contact
 
 <p align="center">
-<a href="mailto:env.hearti@gmail.com">
-<img src="https://img.shields.io/badge/email-env.hearti%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:env.hearti@gmail.com">
+    <code>env.hearti@gmail.com</code>
+  </a>
 </p>
 
 ---
