@@ -1,71 +1,67 @@
-<h1 align="center"> execz</h1>
+<h1 align="center">execz</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Focused+on+Offensive+Security;Linux+%7C+Web+Security+%7C+Cryptography;Learning+Every+Day..." />
+Offensive Security Student • Focused on Exploitation & Tool Development
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 Cybersecurity student at TryHackMe  
-🎯 Focused on Offensive Security fundamentals  
-🔐 Interested in Cryptography & Web Vulnerabilities    
-📈 Consistently improving through hands-on labs  
+I'm a cybersecurity student focused on offensive security.
+
+My main interest is understanding how attacks actually work — from reconnaissance to exploitation — and learning how to build tools that automate or enhance offensive techniques.
+
+I believe real learning comes from breaking, analyzing, and rebuilding systems to understand their weaknesses.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔍 Recon & Enumeration  
-- 🌐 Web Exploitation Basics  
-- 🔐 Cryptography fundamentals  
-- 🐧 Linux fundamentals  
+- 🔎 Reconnaissance & Enumeration  
+- 🌐 Web Application Exploitation  
+- 🐧 Linux Privilege Escalation  
+- 🛠️ Basic Tool Development (Python)  
+- 🔐 Practical Cryptography  
 
 ---
 
-## 🛠️ Tools I'm Learning
+## 🛠️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,python" />
 </p>
 
+Currently practicing with:
 - Nmap  
 - Burp Suite  
 - Wireshark  
+- Basic scripting for automation  
 
 ---
 
-## 📚 Platform
+## 📚 Learning Platform
 
-🧠 TryHackMe
+- TryHackMe  
 
 ---
 
-## 🎯 Goals
+## 📫 Contact
 
-- Build strong cybersecurity foundations  
-- Master web vulnerability analysis  
-- Understand cryptographic mechanisms deeply  
-- Grow into an Offensive Security professional  
+<p>
+<a href="mailto:execzheart@gmail.com">
+<img src="https://img.shields.io/badge/Email-execzheart%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🎯 Long-Term Goal
+
+Develop strong offensive security foundations and grow into a professional focused on exploitation and tool development.
 
 ---
 
 <p align="center">
-⚡ Learning. Practicing. Breaking. Improving.
+Learn. Break. Build. Improve.
 </p>
-
-<!--
-**execheart/execheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
