@@ -1,64 +1,57 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-Offensive Security Student • Focused on Exploitation & Tool Development
+Offensive Security Student
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a cybersecurity student focused on offensive security.
+Cybersecurity student focused on offensive security and practical exploitation.
 
-My main interest is understanding how attacks actually work — from reconnaissance to exploitation — and learning how to build tools that automate or enhance offensive techniques.
----
+Interested in understanding how attacks work from reconnaissance to post-exploitation, and building small tools to automate offensive techniques.
 
-## 🚀 Current Focus
-
-- 🔎 Reconnaissance & Enumeration  
-- 🌐 Web Application Exploitation  
-- 🐧 Linux Privilege Escalation  
-- 🛠️ Basic Tool Development (Python)  
-- 🔐 Practical Cryptography  
+Learning by doing. Improving every day.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Current Focus
+
+- Reconnaissance & Enumeration  
+- Web Application Exploitation  
+- Linux Privilege Escalation  
+- Tool Development with Python  
+- Practical Cryptography  
+
+---
+
+## Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,python" />
 </p>
 
-Currently practicing with:
-- Nmap  
-- Burp Suite  
-- Wireshark  
-- Basic scripting for automation  
+Nmap  
+Burp Suite  
+Wireshark  
 
 ---
 
-## 📚 Learning Platform
+## Learning Platform
 
-- TryHackMe  
+TryHackMe  
 
 ---
 
-## 📫 Contact
+## Contact
 
-<p>
 <a href="mailto:execzheart@gmail.com">
-<img src="https://img.shields.io/badge/Email-execzheart%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+execzheart@gmail.com
 </a>
-</p>
-
----
-
-## 🎯 Long-Term Goal
-
-Develop strong offensive security foundations and grow into a professional focused on exploitation and tool development.
 
 ---
 
 <p align="center">
-Learn. Break. Build. Improve.
+Learn • Break • Build • Improve
 </p>
