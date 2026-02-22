@@ -1,54 +1,64 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-Offensive Security Student • Focused on Exploitation & Tool Development
+  <strong>Red Team Enthusiast • Focused on Exploitation & Tool Development</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a cybersecurity student focused on offensive security.
+I'm a cybersecurity student focused on offensive security and tactical operations.
 
-My main interest is understanding how attacks actually work — from reconnaissance to exploitation — and learning how to build tools that automate or enhance offensive techniques.
+My main interest is understanding how attacks actually work — from **reconnaissance** to **exploitation** — and learning how to build tools that automate or enhance offensive techniques.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔎 Reconnaissance & Enumeration  
-- 🌐 Web Application Exploitation  
-- 🐧 Linux Privilege Escalation  
-- 🛠️ Basic Tool Development (Python)  
-- 🔐 Practical Cryptography  
+- 🔎 **Reconnaissance & Enumeration**  
+- 🌐 **Web Application Exploitation**  
+- 🐧 **Linux Privilege Escalation**  
+- 🛠️ **Basic Tool Development (Python)**  
+- 🔐 **Practical Cryptography**  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,python" />
+<img src="https://skillicons.dev" />
 </p>
 
-Currently practicing with:
-- Nmap  
-- Burp Suite  
-- Wireshark  
-- Basic scripting for automation  
+**Current Arsenal:**
+- **Nmap** (Network Mapping)
+- **Burp Suite** (Web Proxy)
+- **Wireshark** (Packet Analysis)
+- **Metasploit** (Exploitation Framework)
 
 ---
 
-## 📚 Learning Platform
+## 📊 Learning Platform
 
-- TryHackMe  
+<p>
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Contact
 
 <p>
-<a href="mailto:execzheart@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-execzheart%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+<a href="mailto:env.hearti@gmail.com">
+<img src="https://img.shields.io"/>
 </a>
 </p>
 
@@ -61,5 +71,5 @@ Develop strong offensive security foundations and grow into a professional focus
 ---
 
 <p align="center">
-Learn. Break. Build. Improve.
+<code>Learn. Break. Build. Improve.</code>
 </p>
